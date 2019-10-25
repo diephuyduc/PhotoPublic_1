@@ -1,4 +1,4 @@
-### More information of JArchitect 
+### More screenshoot of JArchitect - Test suite (from [NIST](https://samate.nist.gov/SRD/testsuite.php) 
 ![alt](https://github.com/diephuyduc/PhotoPublic_1/blob/master/JArchite_1.png)
 ![alt](https://github.com/diephuyduc/PhotoPublic_1/blob/master/JA_3.png)
 ![alt](https://github.com/diephuyduc/PhotoPublic_1/blob/master/JA_3.png)
